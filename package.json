@@ -1,0 +1,11 @@
+{
+  "name": "webproj",
+  "version": "1.0.0",
+  "description": "This Is TE Web Proj",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nova & Appu",
+  "license": "ISC"
+}
